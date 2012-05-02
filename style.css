@@ -58,7 +58,6 @@ body {
 	margin-left:10px;
 	box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
 	min-height:330px;
-
 }
 
 .left .left_container .left_footer{
@@ -137,6 +136,32 @@ a {
 .info p{
 	margin: 0 15px 15px 15px;
 }
+
+.post {
+    border-top: 1px solid #EEEEEE;
+    padding-top: 10px;
+    padding-bottom:7px;
+    margin: 0 17px;
+}
+
+.post_title {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.5em;
+    font-weight: 500;
+    line-height: 1.2em;
+    margin-bottom: 6px;
+}
+
+.post_comment {
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    border-top: 0 solid #CCCCCC;
+    color: #777777;
+    line-height: 17px;
+    margin: 4px 0 8px;
+    padding-bottom: 0;
+}
+
 .footer{
 	clear:both;
 	height:50px;
